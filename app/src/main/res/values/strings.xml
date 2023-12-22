@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Vibrator</string>
+    <string name="vibration_start">Start vibrating</string>
+    <string name="vibration_stop">Stop vibrating</string>
 </resources>
