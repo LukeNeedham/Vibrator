@@ -11,21 +11,8 @@ import androidx.compose.ui.tooling.preview.Preview
 fun MainPage(
     setVibrating: (isVibrating: Boolean) -> Unit,
 ) {
-    var isVibrating by remember { mutableStateOf(false) }
-
     MainPageContent(
-        isVibrating = isVibrating,
-        onToggleVibrate = {
-            isVibrating = !isVibrating
-            setVibrating(isVibrating)
-        }
-    )
-}
-
-@Preview
-@Composable
-private fun PreviewMainPage() {
-    MainPage(
-        setVibrating = {},
+        startVibration = { setVibrating(true) },
+        stopVibration = { setVibrating(false) },
     )
 }
