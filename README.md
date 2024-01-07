@@ -24,4 +24,8 @@ The potential uses of this app are limitless. If you're sick of calibrating batt
 
 ## I'm sold - how do I download it?
 
-You can download the app on F-Droid (hopefully soon)
+The app is available on F-Droid
+
+[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
+    alt="Get it on F-Droid"
+    height="80">](https://f-droid.org/packages/com.lukeneedham.vibrator)
