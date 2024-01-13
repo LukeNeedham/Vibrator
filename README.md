@@ -22,6 +22,8 @@ The potential uses of this app are limitless. If you're sick of calibrating batt
 - Play pranks! Hide your vibrating device in the wardrobe and tell your partner there's a wasp in the house
 - Vibe check! Invite all your friends around and throughly vibe check them
 
+For even more usages, see [this](docs/AdditionalUses.md)
+
 ## I'm sold - how do I download it?
 
 The app is available on F-Droid: https://f-droid.org/packages/com.lukeneedham.vibrator
