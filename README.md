@@ -1,4 +1,11 @@
-# Vibrator App
+<div align="center">
+
+# Vibrator
+
+### Simple Android app for starting and stopping the system vibrator
+
+</div>
+
 
 ## What is this?
 
