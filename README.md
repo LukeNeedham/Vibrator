@@ -33,8 +33,6 @@ For even more usages, see the full list [here](./docs/AdditionalUses.md)
 
 ## I'm sold - how do I download it?
 
-The app is available on F-Droid: https://f-droid.org/packages/com.lukeneedham.vibrator
-
 [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
     alt="Get it on F-Droid"
     height="80">](https://f-droid.org/packages/com.lukeneedham.vibrator)
