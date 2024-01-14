@@ -31,3 +31,7 @@ The app is available on F-Droid: https://f-droid.org/packages/com.lukeneedham.vi
 [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
     alt="Get it on F-Droid"
     height="80">](https://f-droid.org/packages/com.lukeneedham.vibrator)
+[<img src="https://raw.githubusercontent.com/deckerst/common/main/assets/get-it-on-github.png"
+     alt="Get it on Github"
+     height="80">](https://github.com/LukeNeedham/Vibrator/releases)
+    
